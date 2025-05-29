@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @konny0247
-- 👀 I’m interested in coding, video gaming, anime and learning new stuff.
-- 🌱 I’m currently learning the basic of web development. I have already mastered HTML & CSS.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Konny
+- 🎓 High school graduate.
+- 👀 I’m interested in Computer Science, AI, and Software Development.
+- 🌱 I’m currently learning Python, Git, and frontend development.
+- 💞️ I’m looking to collaborate on a simple web development projects.
+- 📫 Reach me at konny0247@gmail.com
+- 😄 Pronouns: He/Him
 
 <!---
 konny0247/konny0247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

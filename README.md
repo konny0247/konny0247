@@ -9,7 +9,7 @@
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=konny0247&color=0e75b6)](https://github.com/konny0247)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/konny0247)
 
 ---
 

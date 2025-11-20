@@ -34,7 +34,6 @@
 - [Repo C](https://github.com/konny0247/SSD-Flag) — A south Sudanese Flag designed with CSS.
 - [Repo D](https://github.com/konny0247/Daylink-Media) — A Demo web page for a small company designed with HTML and CSS only.
 
-(Use the "Pinned" repositories UI on your profile to show these prominently.)
 
 ## 💬 Contact
 - Email: <konny0247@gmail.com>

@@ -32,6 +32,7 @@
 - [Repo A](https://github.com/konny0247/Registration-form) — A registration form built with HTML and CSS only.
 - [Repo B](https://github.com/konny0247/Single-page-cv) — A single page cv built with HTML only. It shows my education background, experince and skills.
 - [Repo C](https://github.com/konny0247/SSD-Flag) — A south Sudanese Flag designed with CSS.
+- [Repo D](https://github.com/konny0247/Daylink-Media) — A Demo web page for a small company designed with HTML and CSS only.
 
 (Use the "Pinned" repositories UI on your profile to show these prominently.)
 
